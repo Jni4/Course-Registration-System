@@ -1,9 +1,9 @@
 # Course-Registration-System
-JSF Course Registration System__
+JSF Course Registration System
 
-Project coded by Jingsha Ni using Java and Eclipe. __
+Project coded by Jingsha Ni using Java and Eclipe. 
 
-Functionalities include:__
+Functionalities include:
 * User Registration by ID(Numerical Only) and Password
 * Login/Logout 
 * MySQL Database/AWS RDS dependices for saving students & courses
